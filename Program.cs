@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Library_Manegment_System
+namespace Library_Management_System
 {
-    internal static class Program
+    static class Program
     {
         /// <summary>
         /// The main entry point for the application.
